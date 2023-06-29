@@ -1,0 +1,81 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+h1{
+    color:black;
+}
+.main-container{
+    left: 0;
+    right:0;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    width: fit-content;
+    border: solid 1px lightgray
+}
+#toolbar {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    width: 150px;
+    background-color: gray;
+}
+#toolbar * {
+    margin-bottom: 6px;
+}
+#toolbar label {
+    font-size: 12px;
+}
+#toolbar input {
+    width: 100%;
+}
+#toolbar button {
+    background-color: black;
+    border: none;
+    color:white;
+    padding:10px;
+}
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    width:fit-content;
+    text-align:center;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* styles for validation helpers */
+.field-validation-error {
+    color: #b94a48;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}
