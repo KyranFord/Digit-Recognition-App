@@ -36,8 +36,8 @@ If you want to use a different pre-trained model, replace the lenet.h5 file in t
 
 You can modify the HTML structure, CSS styling, or JavaScript code in the index.html template to customize the appearance or behavior of the web application.
 
-#Contributing
+# Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
 
-#License
+# License
 This project is licensed under the MIT License.
