@@ -1,26 +1,27 @@
 # Digit Recognition Web App
-
 This is a Django web application that allows users to draw a digit and get it classified using a pre-trained machine learning model. The application provides an interactive drawing board where users can sketch a digit, and upon submission, the application predicts the digit drawn.
 
-## Features
-
+# Features
 - Interactive drawing board to sketch digits
 - Digit classification using a pre-trained machine learning model
 - Real-time prediction display
 - Clearing functionality to start a new drawing
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/digit-recognition-web-app.git
+# Installation
+Clone the repository:
+```
+git clone https://github.com/your-username/digit-recognition-web-app.git```
 Install the required dependencies:
 
+bash
+Copy code
 pip install -r requirements.txt
 Download the pre-trained machine learning model (lenet.h5) and place it in the root directory of the project.
 
 Start the Django development server:
 
+bash
+Copy code
 python manage.py runserver
 Open your web browser and navigate to http://localhost:8000 to access the application.
 
@@ -43,5 +44,3 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 License
 This project is licensed under the MIT License.
-
-Please copy the entire content from the code block above as a single unit.
