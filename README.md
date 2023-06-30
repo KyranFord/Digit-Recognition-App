@@ -1,4 +1,9 @@
 # Digit Recognition Web App
+
+<p align="center">
+  <img width="75%" src="demonstration.gif">
+</p>
+
 This is a Django web application that allows users to draw a digit and get it classified using a pre-trained machine learning model. The application provides an interactive drawing board where users can sketch a digit, and upon submission, the application predicts the digit drawn.
 
 ## Programming Languages
