@@ -3,10 +3,7 @@ This is a Django web application that allows users to draw a digit and get it cl
 
 ## Programming Languages
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-41.1%25-yellow?style=flat-square&logo=javascript&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-37.9%25-blue?style=flat-square&logo=python&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML-16.0%25-orange?style=flat-square&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-5.0%25-blueviolet?style=flat-square&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-41.1%25-yellow?style=flat-square&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-37.9%25-blue?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-16.0%25-orange?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-5.0%25-blueviolet?style=flat-square&logo=css3&logoColor=white)
 
 # Features
 - Interactive drawing board to sketch digits
