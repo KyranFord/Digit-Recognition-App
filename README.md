@@ -4,7 +4,7 @@
   <img width="75%" src="demonstration.gif">
 </p>
 
-This is a Django web application that allows users to draw a digit and get it classified using a pre-trained machine learning model. The application provides an interactive drawing board where users can sketch a digit, and upon submission, the application predicts the digit drawn.
+This is a Django web application that allows users to draw a digit and get it classified using a pre-trained machine learning model. The application provides an interactive drawing board where users can sketch a digit, and upon submission, the application predicts the digit drawn. I used this project to bridge my knowledge of creating web pages and running Python code on the website. To take this project further I would create a full, responsive front-end.
 
 ## Programming Languages
 
